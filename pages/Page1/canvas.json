@@ -8,18 +8,18 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
-          "snapColumns": 16,
+          "rightColumn": 4896,
+          "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1250,
+          "bottomRow": 5000,
           "containerStyle": "none",
-          "snapRows": 33,
+          "snapRows": 125,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 4,
+          "version": 57,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -27,6 +27,7 @@
           "leftColumn": 0,
           "children": []
         },
+        "layoutOnLoadActions": [],
         "widgetNames": [
           "MainContainer"
         ],
